@@ -1,11 +1,12 @@
 - 👋 Hi, I’m Binita Pokharel
-<!--- - 👀 I’m interested in ... --->
+ <!--- - 👀 I’m interested in ... --->
 - 💞️ I’m looking to collaborate on a new project using ai
-- <!--- - 👀 I’m interested in ... --->
+  
+  <!--- - 👀 I’m interested in ... --->
 - 📫 How to reach me binitapokharel33@gmail.com
-- <!--- - 👀 I’m interested in ... --->
+ <!--- - 👀 I’m interested in ... --->
 - 😄 Pronouns: she/her
-- <!--- - 👀 I’m interested in ... --->
+ <!--- - 👀 I’m interested in ... --->
 - ⚡ Fun fact: i likee animeeee
 
 <!---
