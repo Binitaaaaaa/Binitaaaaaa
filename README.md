@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Binita Pokharel
  <!--- - 👀 I’m interested in ... --->
-- 💞️ I’m looking to collaborate on a new project using ai
+
   
   <!--- - 👀 I’m interested in ... --->
 - 📫 How to reach me binitapokharel33@gmail.com
